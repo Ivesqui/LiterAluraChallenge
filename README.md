@@ -1,4 +1,4 @@
-<h1>Bienvendos a Mi proyecto LiterAlura 🚀</h1>
+<h1>Bienvendos a mi proyecto LiterAlura 🚀</h1>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QkQXNnF/Liter-Alura.jpg" alt="Liter-Alura" border="0"></a>
 
 ## 📖 Introducción
