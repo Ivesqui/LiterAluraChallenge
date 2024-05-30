@@ -1,5 +1,5 @@
 <h1>Bienvendos a Mi proyecto LiterAlura 🚀</h1>
-<img src="src/main/java/com/Ivesqui/literalura/literAlura.jpg" width="600">
+<img src="[src/main/java/com/Ivesqui/literalura/literAlura.jpg](https://ibb.co/gd96TwM)" width="600">
 
 ## 📖 Introducción
 Este proyecto, desarrollado como parte de mi formación en Alura Latam, es una inmersión fascinante en el mundo de la persistencia de datos. 
