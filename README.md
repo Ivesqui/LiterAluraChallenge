@@ -1,5 +1,6 @@
 <h1>Bienvendos a mi proyecto LiterAlura 🚀</h1>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QkQXNnF/Liter-Alura.jpg" alt="Liter-Alura" border="0"></a>
+<center><a href="https://ibb.co/r7tc22J"><img src="https://i.ibb.co/r7tc22J/badge-literalura.png" alt="badge-literalura" border="0"></a></center>
 
 ## 📖 Introducción
 Este proyecto, desarrollado como parte de mi formación en Alura Latam, es una inmersión fascinante en el mundo de la persistencia de datos. 
@@ -104,6 +105,7 @@ Las tecnologías que utilicé durante este proyecto fueron las siguientes:
 ## 👤 Acerca De
 Soy Christian Estupiñan Quintero, estudiante de Ingeniería de Sistemas Inteligentes, comprometido con el aprendizaje 
 continuo y con la meta de convertirme en desarrollador full-stack.
+
 
 
 
