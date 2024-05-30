@@ -41,7 +41,7 @@ que están almacenados en la base de datos.
 La aplicación realiza un JOIN para traer los datos del autor con el nombre ingresado.
 
 
-## 🕹️ Tutorial de Uso
+## 📝 Tutorial de Uso
 >**Nota:** 
 >Esta aplicación puede ser utilizada por cualquier persona con fines educativos.
 >La aplicación requiere primero ejecutar el Script MYSQL llamado "bd" que está incluido en la capeta "Databases"
